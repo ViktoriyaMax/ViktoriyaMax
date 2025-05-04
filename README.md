@@ -16,3 +16,5 @@ Lanaguages and Tools
 
 Contacts
 
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-fedcba)](https://wa.me/+79213940455)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-violet)](www.linkedin.com/in/victoriia-maximova-b782b0360)
