@@ -8,7 +8,7 @@ Lanaguages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-8A2BE2)
 ![HTML](https://img.shields.io/badge/-HTML-8A2B2)
 ![CSS](https://img.shields.io/badge/-CSS-8A9BE2)
-![Python](https://img.shields.io/badge/-Python-8A2BE2)
+[![Python](https://img.shields.io/badge/-Python-8A2BE2)](https://www.sololearn.com/certificates/CC-JJVS0CNQ)
 ![Git](https://img.shields.io/badge/-Git-8A2BE)
 ![DevTools](https://img.shields.io/badge/-DevTools-8A9BE9)
 ![Charles Proxy](https://img.shields.io/badge/-CharlesProxy-8A2BE2)
