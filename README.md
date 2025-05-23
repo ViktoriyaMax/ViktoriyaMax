@@ -24,7 +24,8 @@
 
 📌 **Manual QA project** covering test plan, test cases, bug reports, and execution reports  
 🔗 [Visit the repository](https://github.com/ViktoriyaMax/manual-testing-automationexercise)
-
+📌 **API Testing project** using Postman with positive and negative test cases, collection & execution report  
+🔗 [Visit the repository](https://github.com/ViktoriyaMax/api-testing-petstore.git)  
 ---
 
 ## 🧰 Tools & Technologies
