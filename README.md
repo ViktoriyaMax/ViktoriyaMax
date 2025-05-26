@@ -26,6 +26,8 @@
 🔗 [Visit the repository](https://github.com/ViktoriyaMax/manual-testing-automationexercise)
 📌 **API Testing project** using Postman with positive and negative test cases, collection & execution report  
 🔗 [Visit the repository](https://github.com/ViktoriyaMax/api-testing-petstore.git)  
+📌 **SQL Project** [Hogwarts Database Analysis](https://github.com/ViktoriyaMax/hogwarts-sql-demo)
+
 ---
 
 ## 🧰 Tools & Technologies
