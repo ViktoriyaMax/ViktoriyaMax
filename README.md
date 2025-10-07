@@ -23,10 +23,11 @@
 </p>
 
 📌 **Manual QA project** covering test plan, test cases, bug reports, and execution reports  
-🔗 [Visit the repository](https://github.com/ViktoriyaMax/manual-testing-automationexercise)
+🔗 [Visit the repository](https://github.com/ViktoriyaMax/manual-testing-automationexercise) <br>
 📌 **API Testing project** using Postman with positive and negative test cases, collection & execution report  
-🔗 [Visit the repository](https://github.com/ViktoriyaMax/api-testing-petstore.git)  
-📌 **SQL Project** [Hogwarts Database Analysis](https://github.com/ViktoriyaMax/hogwarts-sql-demo)
+🔗 [Visit the repository](https://github.com/ViktoriyaMax/api-testing-petstore.git) <br> 
+📌 **SQL Project** <br>
+🔗 [Visit the repository](https://github.com/ViktoriyaMax/hogwarts-sql-demo)
 
 ---
 
